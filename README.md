@@ -1,5 +1,6 @@
 | Date | Description | Transaction |
 | --- | --- | --- |
+| 19-02-2022 | 4chan ads | [210 USDC](https://snowtrace.io/tx/0x2143b3bb69352fd784781fe7d9743ac51de06b14177ba0076f8efc4c19c8249f)
 | 17-02-2022 | Payment to [Rinse](https://github.com/Rinse12) for [plebbit-js](https://github.com/plebbit/plebbit-js/commit/73c8d2afb9815303cde25169c3bd178c36bd77f0) | [1,500 USDC](https://etherscan.io/tx/0x6b73f8ab638136b0a8de1e8939ea1beed05202386e97a376323f6c3d66bd2ab2)
 | 17-02-2022 | Payment to [Abydin](https://github.com/Abydin) for [plebbit-react](https://github.com/plebbit/plebbit-react/commit/db38ab6f0b7ddd411dd55c277303eb0bb015a663) | [1,600 USDC](https://etherscan.io/tx/0x8c8b97815a3cd0f71f4e05b30eac98acbd44fd4cb787b821c5ad594a1565af6c)
 | 12-02-2022 | 4chan ads | [210 USDC](https://snowtrace.io/tx/0xbe52adb11a36e8e1502532e8867267c3c2d9175b5961f9a46fd9ea4bef1d32e8)
