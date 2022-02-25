@@ -1,5 +1,6 @@
 | Date | Description | Transaction |
 | --- | --- | --- |
+| 24-02-2022 | Payment to [Rinse](https://github.com/Rinse12) for [plebbit-js](https://github.com/plebbit/plebbit-js/commit/abe231e227fc6180ef29dec47bdbd668ce57fbfd) | [1,500 USDC](https://snowtrace.io/tx/0x89cffb44dc5127e436cc1f953e860b4abb22b1b1849bc8983b5253526a0974c5)
 | 24-02-2022 | Payment to [Abydin](https://github.com/Abydin) for [plebbit-react](https://github.com/plebbit/plebbit-react/commit/06fbd5b09148b32d71a707124b9896c29f855b9c) | [1,600 USDC](https://etherscan.io/tx/0x46f657b5a212883fc6c5be45ab7440c92e2b52da86f3e82b30212ea3bc27d6f9)
 | 22-02-2022 | 5000 NFT art from [Elix Exo](https://twitter.com/GenericMage1127) | [7.2 AVAX](https://snowtrace.io/tx/0xfef93c5422e97a8d7a8d3594fd17e56d7dadf7fa3f98a8bfecb9c8115f93ee38)
 | 19-02-2022 | 4chan ads | [210 USDC](https://snowtrace.io/tx/0x2143b3bb69352fd784781fe7d9743ac51de06b14177ba0076f8efc4c19c8249f)
