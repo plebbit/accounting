@@ -1,5 +1,8 @@
 | Date | Description | Transaction |
 | --- | --- | --- |
+| 11-03-2022 | 4chan ads | [210 USDC](https://snowtrace.io/tx/0xb462e9b073bfe3bc9ae2b3affa5dac4514785412dbc56f111326ae8b53e6778d)
+| 11-03-2022 | Payment to [Rinse](https://github.com/Rinse12) for [plebbit-js](https://github.com/plebbit/plebbit-js/commit/9380449081879d9a076f6d5459c7a153da8b9a80) | [1,800 USDC](https://snowtrace.io/tx/0xfe56605b1e2cfa2f56e221fd1388d46010064360421b87a5193cd1e17512cdeb)
+| 09-03-2022 | Payment to [Abydin](https://github.com/Abydin) for [plebbit-react](https://github.com/plebbit/plebbit-react/commit/7e72aa6ba4b39176858ba029898f4c5f260136f8) | [1,800 USDC](https://etherscan.io/tx/0x5f67dadc1fab19ef59cc2eaa115f3ce2981a80603fd956996ac9c0f14e2e562d)
 | 05-03-2022 | 4chan ads | [210 USDC](https://snowtrace.io/tx/0xdd5e7da1c382f181fb517f014b8f7f6b3ad6edac1a08fc5654b8a6d0e02a0439)
 | 05-03-2022 | Payment to [Rinse](https://github.com/Rinse12) for [plebbit-js](https://github.com/plebbit/plebbit-js/commit/3ac6c41e06556a450acbbee1c35f859340a65595) | [1,800 USDC](https://snowtrace.io/tx/0x1d661b8d00c50b0b279bccd6522ae63d3487b20ccc70be335e02660a6db07e3e)
 | 03-03-2022 | Payment to [Abydin](https://github.com/Abydin) for [plebbit-react](https://github.com/plebbit/plebbit-react/commit/f71c47b8227822d790ed83ed59c78c3a5721a4b3) | [1,800 USDC](https://etherscan.io/tx/0xdc4d7368ded4336f0ac6fdb8ba425f2e4cceb6ccc6184670e0d25d739e9b1d64)
