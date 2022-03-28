@@ -1,5 +1,11 @@
 | Date | Description | Transaction |
 | --- | --- | --- |
+| 26-03-2022 | 4chan & Reddit ads | [210 USDC](https://snowtrace.io/tx/0xbdf2a280b2251b8cc7328eb3ece4b73e42048fae68ea6de8802497872afc0936)
+| 26-03-2022 | Payment to [Rinse](https://github.com/Rinse12) for [plebbit-js](https://github.com/plebbit/plebbit-js/commit/ba181ca4e357874dfe9570bcfd635f4a3ef96d18) | [1,800 USDC](https://snowtrace.io/tx/0xb3db1a416618981ea7a08b530cb48abe928d151550793408031923f8b6e24617)
+| 24-03-2022 | Payment to [Abydin](https://github.com/Abydin) for [plebbit-react](https://github.com/plebbit/plebbit-react/commit/848069f95641dd05c0d6dcde163bd5e6bf428edb) | [1,800 USDC](https://snowtrace.io/tx/0xb3db1a416618981ea7a08b530cb48abe928d151550793408031923f8b6e24617)
+| 18-03-2022 | 4chan & Reddit ads | [210 USDC](https://snowtrace.io/tx/0xb3db1a416618981ea7a08b530cb48abe928d151550793408031923f8b6e24617)
+| 18-03-2022 | Payment to [Rinse](https://github.com/Rinse12) for [plebbit-js](https://github.com/plebbit/plebbit-js/commit/2ffd160fa8405bdbfb539990c157f6fd3e13a998) | [1,800 USDC](https://snowtrace.io/tx/0xb3db1a416618981ea7a08b530cb48abe928d151550793408031923f8b6e24617)
+| 16-03-2022 | Payment to [Abydin](https://github.com/Abydin) for [plebbit-react](https://github.com/plebbit/plebbit-react/commit/d20aae9ec2f78ae3248acd03aee6cf74072087e4) | [1,800 USDC](https://snowtrace.io/tx/0xb3db1a416618981ea7a08b530cb48abe928d151550793408031923f8b6e24617)
 | 11-03-2022 | 4chan ads | [210 USDC](https://snowtrace.io/tx/0xb462e9b073bfe3bc9ae2b3affa5dac4514785412dbc56f111326ae8b53e6778d)
 | 11-03-2022 | Payment to [Rinse](https://github.com/Rinse12) for [plebbit-js](https://github.com/plebbit/plebbit-js/commit/9380449081879d9a076f6d5459c7a153da8b9a80) | [1,800 USDC](https://snowtrace.io/tx/0xfe56605b1e2cfa2f56e221fd1388d46010064360421b87a5193cd1e17512cdeb)
 | 09-03-2022 | Payment to [Abydin](https://github.com/Abydin) for [plebbit-react](https://github.com/plebbit/plebbit-react/commit/7e72aa6ba4b39176858ba029898f4c5f260136f8) | [1,800 USDC](https://etherscan.io/tx/0x5f67dadc1fab19ef59cc2eaa115f3ce2981a80603fd956996ac9c0f14e2e562d)
