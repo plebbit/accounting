@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Plebbit has rebranded to [Bitsocial](https://bitsocial.net).** This repository is archived and preserved for historical reference.
+>
+> Find current projects at [@bitsocialnet](https://github.com/bitsocialnet).
+
 | Date | Description | Transaction |
 | --- | --- | --- |
 | 12-08-2022 | Payment to [Abydin](https://github.com/Abydin) for [plebbit-react](https://github.com/plebbit/plebbit-react/commit/fdb3f7ccbbdbaa7036644f39cede358fd7f055c1) | [1,800 USDC](https://etherscan.io/tx/0xf5b972e589fa88384e841f8827f8b481473405d90c52e00f5f9b5e94a1fa155b)
